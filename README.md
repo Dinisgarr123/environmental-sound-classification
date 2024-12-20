@@ -26,7 +26,7 @@ matplotlib
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/environmental-sound-classification.git
+   git clone https://github.com/Dinisgarr123/environmental-sound-classification.git
    ```
 
 2. Navigate to the project directory:
@@ -42,7 +42,7 @@ matplotlib
 4. View the results, including metrics and cross-validation scores.
 
 
-The dataset should be placed in the appropriate directory. Update the `main.py` script to point to your dataset location if needed.
+The dataset should be placed in the appropriate directory. Update the `main.py` script to point to your dataset location.
 
 
 ## Instructions to Access Code
