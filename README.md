@@ -26,7 +26,7 @@ matplotlib
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/environmental-sound-classification.git
+   git clone https://github.com/Dinisgarr123/environmental-sound-classification.git
    ```
 
 2. Navigate to the project directory:
