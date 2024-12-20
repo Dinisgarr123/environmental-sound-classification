@@ -36,7 +36,7 @@ matplotlib
 
 3. Run the script:
    ```bash
-   python main.py
+   python transfer_learning_ga03.py
    ```
 
 4. View the results, including metrics and cross-validation scores.
@@ -51,4 +51,4 @@ The complete code and instructions for running the project are available in this
 
 ##
 - `Transfer_learning_GA03.ipynb`: Interactive notebook with explanation and sections.
-- `transfer_learning_ga03 (1).py`: Linearized source code for direct execution.
+- `transfer_learning_ga03.py`: Linearized source code for direct execution.
