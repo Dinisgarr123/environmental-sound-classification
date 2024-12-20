@@ -47,7 +47,7 @@ The dataset should be placed in the appropriate directory. Update the `main.py` 
 
 ## Instructions to Access Code
 The complete code and instructions for running the project are available in this repository. Visit the repository on GitHub:
-[https://github.com/your-username/environmental-sound-classification](https://github.com/your-username/environmental-sound-classification)
+[https://github.com/your-username/environmental-sound-classification](https://github.com/Dinisgarr123/environmental-sound-classification)
 
 ##
 - `Transfer_learning_GA03.ipynb`: Interactive notebook with explanation and sections.
