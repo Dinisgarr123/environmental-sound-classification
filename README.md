@@ -13,7 +13,7 @@ Install the following dependencies:
 pip install -r requirements.txt
 ```
 
-The `requirements.txt` file should include:
+The `requirements.txt` file includes:
 ```
 tensorflow
 tensorflow-hub
