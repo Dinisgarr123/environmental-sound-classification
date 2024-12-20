@@ -36,7 +36,7 @@ matplotlib
 
 3. Run the script:
    ```bash
-   python main.py
+   python transfer_learning_ga03.py
    ```
 
 4. View the results, including metrics and cross-validation scores.
