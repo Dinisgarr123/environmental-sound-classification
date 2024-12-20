@@ -42,7 +42,7 @@ matplotlib
 4. View the results, including metrics and cross-validation scores.
 
 
-The dataset should be placed in the appropriate directory. Update the `main.py` script to point to your dataset location if needed.
+The dataset should be placed in the appropriate directory. Update the `main.py` script to point to your dataset location.
 
 
 ## Instructions to Access Code
